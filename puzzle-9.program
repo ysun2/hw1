@@ -2,25 +2,25 @@ right
 right 
 Var count = 0 
 while ( count !=8){
-| set color (black)
+| set color (blue)
 | right 
 | count = count + 1
 }
 Var count = 0 
 while ( count !=7){
-| set color (black)
+| set color (blue)
 | down
 | count = count + 1
 }
 Var count = 0 
 while ( count !=7){
-| set color (black)
+| set color (blue)
 | left
 | count = count + 1
 }
 Var count = 0 
 while ( count !=7){
-| set color (black)
+| set color (blue)
 | up
 | count = count + 1
 }
