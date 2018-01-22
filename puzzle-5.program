@@ -1,0 +1,13 @@
+recipe move 
+| right 
+| right 
+| get color 
+| if getcolor is blue, down 
+| else 
+| up 
+move 
+move
+move
+right 
+right 
+right 
