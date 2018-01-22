@@ -1,0 +1,17 @@
+down 
+down 
+down 
+down 
+right 
+save getcolor as firstcolorseen 
+down 
+right 
+setcolor remember first colorseen 
+right 
+right 
+up 
+save getcolor as secondcolorseen 
+down 
+right 
+save getcolor as secondcolorseen 
+donw
