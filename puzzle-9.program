@@ -1,0 +1,26 @@
+right 
+right 
+Var count = 0 
+while ( count !=8){
+| set color (black)
+| right 
+| count = count + 1
+}
+Var count = 0 
+while ( count !=7){
+| set color (black)
+| down
+| count = count + 1
+}
+Var count = 0 
+while ( count !=7){
+| set color (black)
+| left
+| count = count + 1
+}
+Var count = 0 
+while ( count !=7){
+| set color (black)
+| up
+| count = count + 1
+}
